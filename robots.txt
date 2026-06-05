@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://e7fendy.github.io/pickbetter-home-organization/sitemap.xml
